@@ -24,3 +24,5 @@ structure.md
 *.njsproj
 *.sln
 *.sw?
+
+/src/generated/prisma
